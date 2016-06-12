@@ -1,4 +1,6 @@
-# Cyprium syntax theme
+# Deprecated. The project is now part of [Prot16](https://github.com/protesilaos/prot16)
+
+## Cyprium syntax theme
 
 A low-contrast colour scheme for the purposes of highlighting code syntax. *Cyprium* is inspired by the landscapes of Cyprus as they appear during the period of late spring. Yellow is the most prevalent accent, followed by orange, and green.
 
